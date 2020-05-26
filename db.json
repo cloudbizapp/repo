@@ -32,8 +32,6 @@
         "total_cost" : "50,000원",
         "summary" : "테스트/술7박스(50KG) 7건 비엘:337380966526,337380955875,337380952714,337380955083,337380955654,337380954980,337380963015/ 서류없이 300번카운터에서 비엘 말씀하시고 꼭 출고증 받아서 직원께 제출하세요/ 출차시 출고증 경비실에 보여드리세요/ ",
         "basic_cost" : "50,000",
-        "addition_cost" : "0",
-        "discount_cost" : "0",
         "delivery_cost" : "0",
         "start_c_code" : "81260005",
         "dest_c_code" : "0"
@@ -57,8 +55,6 @@
         "total_cost" : "31,250원",
         "summary" : "(픽업지.도착지).싸인꼭받으세요//3:00 픽업 출발:안산 주연,다원,케이앤제이,HS(희성) -> 2공장외주",
         "basic_cost" : "31,250",
-        "addition_cost" : "0",
-        "discount_cost" : "0",
         "delivery_cost" : "0",
         "start_c_code" : "64455976",
         "dest_c_code" : "70443160"
@@ -82,8 +78,6 @@
         "total_cost" : "18,000원",
         "summary" : "테스트/밴딩8묶음 ",
         "basic_cost" : "18,000",
-        "addition_cost" : "0",
-        "discount_cost" : "0",
         "delivery_cost" : "0",
         "start_c_code" : "61422469",
         "dest_c_code" : "70429750"
@@ -107,8 +101,6 @@
         "total_cost" : "530,000원",
         "summary" : "테스트/원업체:,대납처:,중량25,000kg,기장:9.7m/스크랩은후문납품/명세서 배송완료후010-5897-6223 사진 문자발송후 가나본사로 필★원본발송",
         "basic_cost" : "530,000",
-        "addition_cost" : "0",
-        "discount_cost" : "0",
         "delivery_cost" : "0",
         "start_c_code" : "80341899",
         "dest_c_code" : "81808413"
@@ -132,8 +124,6 @@
         "total_cost" : "1,550,000원",
         "summary" : "테스트/14파레트/독차",
         "basic_cost" : "1,550,000",
-        "addition_cost" : "0",
-        "discount_cost" : "0",
         "delivery_cost" : "0",
         "start_c_code" : "85651443",
         "dest_c_code" : "0"
