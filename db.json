@@ -139,14 +139,14 @@
             },
             {
                 "customer_name" : "토스터코리아/앱개발",
-                "customer_tel_number" : "010-8205-4181",
+                "customer_tel_number" : "010-8205-4282",
                 "customer_department" : " ",
                 "customer_duty" : "박다니엘 대표님"
             },
             {
                 "rider_code_no" : "",
-                "rider_name" : "",
-                "rider_tel_number" : ""
+                "rider_name" : "홍길동",
+                "rider_tel_number" : "010-1234-5678"
             },
             {
                 "serial_number" : "292020648",
@@ -158,11 +158,11 @@
             {
                 "departure_dong_name" : "인천항",
                 "departure_address" : "인천 중구 항동7가 1-18 (서해대로 339) 인천본부세관 입구 지나면 바로 [인천세관제2지정장치장] 이라고 창고 들어가는 입구 따로 있습니다",
-                "departure_tel_number" : "02-3143-5555",
+                "departure_tel_number" : "02-3143-5552",
                 "departure_company_name" : "한국관세무역개발원/관우회",
                 "destination_dong_name" : "강남",
                 "destination_address" : "서울 강남구 청담동 127-31 (서울 강남구 도산대로101길 29) 청담현대3차아파트 101동 202호 통화후배송 (전화연결안되면 경비실착 사진꼭찍어주세요)",
-                "destination_tel_number" : "010-2671-9118",
+                "destination_tel_number" : "010-2671-9117",
                 "destination_company_name" : "통화후배송",
                 "summary" : "테스트/술7박스(50KG) 7건 비엘:337380966526,337380955875,337380952714,337380955083,337380955654,337380954980,337380963015/ 서류없이 300번카운터에서 비엘 말씀하시고 꼭 출고증 받아서 직원께 제출하세요/ 출차시 출고증 경비실에 보여드리세요/ "
             },
