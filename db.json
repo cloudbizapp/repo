@@ -171,7 +171,7 @@
                 "cargo_type" : "",
                 "cargo_name" : "",
                 "payment" : "선불",
-                "state" : "취소",
+                "state" : "접수",
                 "save_state" : "취소",
                 "total_cost" : "50,000원",
                 "basic_cost" : "50,000원",
