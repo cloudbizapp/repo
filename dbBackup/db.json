@@ -1,0 +1,211 @@
+{
+  "order_list": [
+    {
+        "code" : "1000",
+        "msg" : "RESULT:OK"
+    },
+    {
+        "from_date" : "2020-05-13",
+        "to_date" : "2020-05-13",
+        "total_record" : "20",
+        "total_page" : "2",
+        "current_page" : "1",
+        "display_article" : "10",
+        "current_display_article" : "10"
+    },
+    {
+        "serial_number" : "292020648",
+        "order_state" : "접수",
+        "order_date" : "2020-05-13 12:02",
+        "customer_name" : "토스터코리아/앱개발",
+        "customer_department" : " ",
+        "car_type" : "다마",
+        "delivery_type" : "편도",
+        "departure_department" : "국제로지스틱",
+        "departure_staff" : "",
+        "departure_customer" : "한국관세무역개발원/관우회",
+        "departure_dong_name" : "인천항",
+        "departure_address" : " 인천 중구 항동7가 1-18 (서해대로 339) 인천본부세관 입구 지나면 바로 [인천세관제2지정장치장] 이라고 창고 들어가는 입구 따로 있습니다",
+        "destination_customer" : "통화후배송",
+        "destination_dong_name" : "강남",
+        "destination_address" : "서울 강남구 청담동 127-31 (서울 강남구 도산대로101길 29) 청담현대3차아파트 101동 202호 통화후배송 (전화연결안되면 경비실착 사진꼭찍어주세요)",
+        "total_cost" : "50,000원",
+        "summary" : "테스트/술7박스(50KG) 7건 비엘:337380966526,337380955875,337380952714,337380955083,337380955654,337380954980,337380963015/ 서류없이 300번카운터에서 비엘 말씀하시고 꼭 출고증 받아서 직원께 제출하세요/ 출차시 출고증 경비실에 보여드리세요/ ",
+        "basic_cost" : "50,000",
+        "delivery_cost" : "0",
+        "start_c_code" : "81260005",
+        "dest_c_code" : "0"
+    },
+    {
+        "serial_number" : "292021061",
+        "order_state" : "취소",
+        "order_date" : "2020-05-13 08:50",
+        "customer_name" : "토스터코리아/앱개발",
+        "customer_department" : " ",
+        "car_type" : "오토",
+        "delivery_type" : "경유",
+        "departure_department" : "BH",
+        "departure_staff" : "",
+        "departure_customer" : "주연,다원,케이엔제이,희성",
+        "departure_dong_name" : "안산4곳",
+        "departure_address" : "★꼭 실내화착용★안산 단원구 신길동1050-3 (반월601-20롯트)(해봉로255번길4)",
+        "destination_customer" : ",비에이치2공장/외주/인터넷★",
+        "destination_dong_name" : "인천가좌",
+        "destination_address" : "서구 가좌동542-2번지 가재울로48 (가좌고가에서 첫신호우회전 200m우측건물)*오창1톤12,000 라보100,000 다마스90,000원",
+        "total_cost" : "31,250원",
+        "summary" : "(픽업지.도착지).싸인꼭받으세요//3:00 픽업 출발:안산 주연,다원,케이앤제이,HS(희성) -> 2공장외주",
+        "basic_cost" : "31,250",
+        "delivery_cost" : "0",
+        "start_c_code" : "64455976",
+        "dest_c_code" : "70443160"
+    },
+    {
+        "serial_number" : "292020746",
+        "order_state" : "배차",
+        "order_date" : "2020-05-13 08:50",
+        "customer_name" : "토스터코리아/앱개발",
+        "customer_department" : " ",
+        "car_type" : "오토",
+        "delivery_type" : "편도",
+        "departure_department" : "",
+        "departure_staff" : "",
+        "departure_customer" : "전진전자/반월",
+        "departure_dong_name" : "안산반월14",
+        "departure_address" : " 경기 안산시 단원구 신길동 1122  반월공단14-2롯트(경기 안산시 단원구 해봉로 334) 에스폼알파같은건물 이전함 9월30",
+        "destination_customer" : ".비비테크",
+        "destination_dong_name" : "인천가좌",
+        "destination_address" : "가좌동 564-57번지 가좌IC 옆 ",
+        "total_cost" : "18,000원",
+        "summary" : "테스트/밴딩8묶음 ",
+        "basic_cost" : "18,000",
+        "delivery_cost" : "0",
+        "start_c_code" : "61422469",
+        "dest_c_code" : "70429750"
+    },
+    {
+        "serial_number" : "292021416",
+        "order_state" : "배송",
+        "order_date" : "2020-05-13 08:50",
+        "customer_name" : "토스터코리아/앱개발",
+        "customer_department" : " ",
+        "car_type" : "트럭",
+        "delivery_type" : "편도",
+        "departure_department" : "제품/오더담당",
+        "departure_staff" : "백승민대리님(직통)",
+        "departure_customer" : "13시픽/25톤카/대창/제품",
+        "departure_dong_name" : "안산시화4나",
+        "departure_address" : "시흥시 정왕동 1292-4번지 시화공단4나506호(공단1대로 391)제품차량은대로변에있는정문으로가셔야함안내",
+        "destination_customer" : "13일09시착/엠스코,부산영업소",
+        "destination_dong_name" : "창원의창구,엄궁동",
+        "destination_address" : "경남 창원시의창구 동읍 /엠스코경유시,부산+창원>기본경유3+2만원추가>여양심과장님통화협의",
+        "total_cost" : "530,000원",
+        "summary" : "테스트/원업체:,대납처:,중량25,000kg,기장:9.7m/스크랩은후문납품/명세서 배송완료후010-5897-6223 사진 문자발송후 가나본사로 필★원본발송",
+        "basic_cost" : "530,000",
+        "delivery_cost" : "0",
+        "start_c_code" : "80341899",
+        "dest_c_code" : "81808413"
+    },
+    {
+        "serial_number" : "292024990",
+        "order_state" : "배차",
+        "order_date" : "2020-05-13 08:50",
+        "customer_name" : "토스터코리아/앱개발",
+        "customer_department" : " ",
+        "car_type" : "트럭",
+        "delivery_type" : "편도",
+        "departure_department" : "",
+        "departure_staff" : "김동찬과장님",
+        "departure_customer" : "제주도/5톤윙축/에코니티^^양지",
+        "departure_dong_name" : "용인처인구",
+        "departure_address" : "경기 용인시 처인구 양지면 제일리 640-7(중부대로 2374-41)",
+        "destination_customer" : "익일오전도착",
+        "destination_dong_name" : "제주도서귀포",
+        "destination_address" : "제주 서귀포시 보목동 1429-1(제주특별자치도 서귀포시 보목로64번길 155)",
+        "total_cost" : "1,550,000원",
+        "summary" : "테스트/14파레트/독차",
+        "basic_cost" : "1,550,000",
+        "delivery_cost" : "0",
+        "start_c_code" : "85651443",
+        "dest_c_code" : "0"
+    }
+],
+  "order_detail": [
+        {
+          "id": "292020648",
+          "data" : [
+            {
+                "code" : "1000",
+                "msg" : "RESULT:OK"
+            },
+            {
+                "customer_name" : "토스터코리아/앱개발",
+                "customer_tel_number" : "010-8205-4282",
+                "customer_department" : " ",
+                "customer_duty" : "박다니엘 대표님"
+            },
+            {
+                "rider_code_no" : "4176",
+                "rider_name" : "홍길동",
+                "rider_tel_number" : "010-1234-5678"
+            },
+            {
+                "serial_number" : "292020648",
+                "order_time" : "2020-05-13 12:02",
+                "allocation_time" : "",
+                "pickup_time" : "2020-05-13 08:50",
+                "reason" : ""
+            },
+            {
+                "departure_dong_name" : "인천항",
+                "departure_address" : "인천 중구 항동7가 1-18 (서해대로 339) 인천본부세관 입구 지나면 바로 [인천세관제2지정장치장] 이라고 창고 들어가는 입구 따로 있습니다",
+                "departure_tel_number" : "02-3143-5552",
+                "departure_company_name" : "한국관세무역개발원/관우회",
+                "destination_dong_name" : "강남",
+                "destination_address" : "서울 강남구 청담동 127-31 (서울 강남구 도산대로101길 29) 청담현대3차아파트 101동 202호 통화후배송 (전화연결안되면 경비실착 사진꼭찍어주세요)",
+                "destination_tel_number" : "010-2671-9117",
+                "destination_company_name" : "통화후배송",
+                "summary" : "테스트/술7박스(50KG) 7건 비엘:337380966526,337380955875,337380952714,337380955083,337380955654,337380954980,337380963015/ 서류없이 300번카운터에서 비엘 말씀하시고 꼭 출고증 받아서 직원께 제출하세요/ 출차시 출고증 경비실에 보여드리세요/ "
+            },
+            {
+                "car_type" : "다마스",
+                "cargo_type" : "",
+                "cargo_name" : "",
+                "payment" : "선불",
+                "state" : "접수",
+                "save_state" : "취소",
+                "total_cost" : "50,000원",
+                "basic_cost" : "50,000원",
+                "addition_cost" : "0원",
+                "discount_cost" : "0원",
+                "delivery_cost" : "0원"
+            },
+            {
+                "rider_lon" : "0",
+                "rider_lat" : "0"
+            },
+            {
+                "complete_time" : ""
+            },
+            {
+                "car_no" : "",
+                "car_weight" : "",
+                "car_name" : ""
+            },
+            {
+                "start_lon" : "45586383",
+                "start_lat" : "13484770",
+                "dest_lon" : "45739072",
+                "dest_lat" : "13509727",
+                "doc" : "편도",
+                "item_type" : "",
+                "sfast" : "일반",
+                "start_c_code" : "81260005",
+                "dest_c_code" : "0",
+                "start_department" : "국제로지스틱",
+                "start_duty" : "",
+                "dest_department" : "",
+                "dest_duty" : "김진석님"
+            }]
+        }
+    ]
+}
