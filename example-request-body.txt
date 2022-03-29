@@ -1,0 +1,20 @@
+GET http://localhost:5000/viewer
+
+Request Body:
+
+{
+    "studyID" : "S45211218122625336" // or "S6C211216094735256" or "162256"
+}
+
+---------------------------------------------------------------------------
+This Request will be redirected to - 
+
+{BaseURL}/studies/S45211218122625336
+
+Example)
+
+BaseURL = https://my-json-server.typicode.com/cloudbizapp/repo/
+
+Request to)
+
+https://my-json-server.typicode.com/cloudbizapp/repo/studies/S45211218122625336
